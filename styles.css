@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name - CV</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Your Name</h1>
+        <p>Curriculum Vitae</p>
+    </header>
+    <section id="about">
+        <h2>About Me</h2>
+        <!-- Your introduction and brief summary -->
+    </section>
+    <section id="experience">
+        <h2>Experience</h2>
+        <!-- Your work experiences -->
+    </section>
+    <section id="education">
+        <h2>Education</h2>
+        <!-- Your educational background -->
+    </section>
+    <footer>
+        <p>Contact: your@email.com | GitHub: <a href="https://github.com/yourusername">yourusername</a></p>
+    </footer>
+</body>
+</html>
